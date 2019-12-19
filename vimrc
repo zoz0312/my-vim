@@ -11,8 +11,7 @@ Plugin 'posva/vim-vue'
 Plugin 'ap/vim-css-color'
 Plugin 'alvan/vim-closetag'
 Plugin 'vcscommand.vim'
-
-"Plugin 'vim-scripts/HTML-AutoCloseTag'
+Plugin 'bogado/file-line'
 call vundle#end()
 filetype plugin indent on
 
